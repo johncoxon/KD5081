@@ -1,0 +1,18 @@
+# Key settings (must edit)
+project_title: repository title
+project_repo: username/repo-name
+admins:
+- your_handle_here
+instructors:
+- your_handle_here
+students:
+- your_handle_here
+web_address: https://username.github.io/repo-name
+
+# User options (may edit)
+questions: true
+votes_required: 3
+gh-pages: true
+
+
+

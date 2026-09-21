@@ -1,0 +1,46 @@
+# Edit all fields below. 
+# Two sections and four objectives have been pre-defined to demonstrate syntax
+# `links`, `questions`, `tutorials` can be left undefined but in this case must be set to `[]`.
+
+# Each checklist contains one or more sections
+sections:
+
+- name: Running Python
+
+  links:
+  - https://lucydot.github.io/python_novice/01-run-quit/index.html
+  questions: []
+  tutorials: []
+  
+  # Each section contains one or more objectives
+  objectives:
+  
+  - name: open and save a Jupyter Notebook
+    links: []
+    questions: []
+    tutorials: []
+    
+  - name: use basic Markdown in a notebook
+    links: []
+    questions: []
+    tutorials: []
+
+- name: Lists
+
+  links:
+  - https://lucydot.github.io/python_novice/05-lists/index.html
+  questions: []
+  tutorials: []
+  
+  objectives:
+  
+  - name: create a list
+    links: []
+    questions: []
+    tutorials: []
+  - name: add to a list
+    links: []
+    questions: []
+    tutorials:
+    - https://lucydot.github.io/ChooChoo-template/tutorials/lists
+
