@@ -1,21 +1,17 @@
-# Key settings (must edit)
-project_title: KD5081
-project_repo: johncoxon/KD5081
 admins:
 - johncoxon
 - matthewtownson
-- r-pallister
+gh-pages: true
 instructors:
 - johncoxon
 - matthewtownson
 - r-pallister
+project_repo: johncoxon/KD5081
+project_title: KD5081
+questions: true
 students:
 - johncoxon
 - matthewtownson
 - r-pallister
-web_address: https://johncoxon.github.io/KD5081
-
-# User options (may edit)
-questions: true
 votes_required: 3
-gh-pages: true
+web_address: https://johncoxon.github.io/KD5081
