@@ -1,21 +1,17 @@
 ---
-name: Choochoo student thread
-about: To monitor my progress in the course
-title: Choochoo student thread
+name: Student thread
+about: Assessing fundamental knowledge in Python
+title: Student thread
 labels: student
 assignees: ''
 
 ---
 
-Hello Student :wave:
-
-Welcome to Choochoo the checklist tool! :train:
+Hello :wave:
 
 The Checklist below is designed to help you **monitor your understanding of the core Python topics covered at level 4 (KD4014)**.
 
-Your personal checklist is generated below. You can also interact with me, choochoo-bot, using commands in this thread. 
-To list all possible choochoo commands type `choochoo list commands` in comment box below.
-
+Your personal checklist is generated below. You can also interact with the course bot, called `choochoo`, using commands in this thread. To list all possible choochoo commands type `choochoo list commands` in comment box below.
 
 
 ### Running Python |   [links](https://lucydot.github.io/python_novice/01-run-quit/index.html)  | 
