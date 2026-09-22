@@ -1,13 +1,18 @@
 ---
-name: Student thread
+name: Choochoo student thread
 about: To monitor my progress in the course
-title: Student thread
+title: Choochoo student thread
 labels: student
 assignees: ''
 
 ---
 
-Hello :wave:
+Hello Student :wave:
+
+Welcome to Choochoo the checklist tool! :train:
+
+The Checklist below is designed to help you **monitor your understanding of the core Python topics covered at level 4 (KD4014)**.
 
 Your personal checklist is generated below. You can also interact with me, choochoo-bot, using commands in this thread. 
-To list all possible commands type `choochoo list commands` in comment box below.
+To list all possible choochoo commands type `choochoo list commands` in comment box below.
+

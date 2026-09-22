@@ -1,21 +1,33 @@
 # Key settings (must edit)
-project_title: KD5081
-project_repo: johncoxon/KD5081
+project_title: Python Checklist 2023
+project_repo: lucydot/Python-Northumbria-2023
 admins:
-- johncoxon
-- matthewtownson
-- r-pallister
+- lucydot
 instructors:
-- johncoxon
-- matthewtownson
+- lucydot
 - r-pallister
+
 students:
-- johncoxon
-- matthewtownson
+- lucydot
 - r-pallister
-web_address: https://johncoxon.github.io/KD5081
+- yardofjaffa
+- Cdawg2000
+- CharlieKellam
+- KonArfas
+- smithconnor00
+- Spacemandan88
+- rumerharry
+- KyleAff
+- korgiee
+- TiaCinzia
+- IoannaPampalou
+- TsGardner
+- seamus-watts
+
+web_address: https://lucydot.github.io/Python-Northumbria-2023
 
 # User options (may edit)
 questions: true
-votes_required: 3
+votes_required: 4
 gh-pages: true
+gh-pages_branch: gh-pages
