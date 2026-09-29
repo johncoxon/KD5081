@@ -1,5 +1,5 @@
 ---
-title: "Computational Physics"
+title: "KD5081"
 ---
 
 ![Figure: A simulation of vinegar-oil separation after mixing. This uses the Cahn-Hilliard partial differential equation to model the diffusive dynamics of a two-phase system.](./images/animation_segregation.gif){fig-align="center"}

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Computational Physics"
+  title: "KD5081"
   navbar:
     left:
       - href: index.qmd
