@@ -4,7 +4,7 @@ title: Documentation
 
 ### Documentation comes in different forms
   
-> There is nothing in the programming field more despicable than an undocumented program. 
+> There is nothing in the programming field more despicable than an undocumented program.
   — Ed Yourdon, Software Engineering pioneer
   
 - Tutorials: learning-oriented, allows the newcomer to get started

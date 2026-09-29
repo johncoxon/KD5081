@@ -42,7 +42,7 @@ Keypoints:
 
 - At the top of your empty text file insert the following line: `#!/usr/bin/env python3`. 
 - This is the Python shebang. This line is not mandatory but it has two benefits: a reader can quickly identify it as a Python script, and the script can be ran without using the `Python` command (more on this later).
-- Beneath this you write the Python code. In this example, we will copy across code from an earlier [tutorial example](https://nu-cem.github.io/CompPhys/2021/08/02/Strange-Attractor). We will save the resulting plot to a file, and also print out some messages as the programme is running.
+- Beneath this you write the Python code. In this example, we will copy across code from an earlier [tutorial example](https://johncoxon.github.io/KD5081/2021/08/02/Strange-Attractor). We will save the resulting plot to a file, and also print out some messages as the programme is running.
 - Save your Python file with a `.py` extension - e.g. `Lorenz.py`
 
 ~~~python

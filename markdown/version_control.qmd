@@ -329,7 +329,7 @@ In practice, most programmers hold up-to-date copies of their files on a remote 
 You now need to `push` your local repository to the remote server. To do so, follow the commands under "...or push an existing repository from the command line" into your terminal (you need to be in the `my_project` folder when you do this).
 
 ~~~bash
-git remote add origin https://github.com/lucydot/my_project.git
+git remote add origin https://github.com/my_username/my_project.git
 git push -u origin main
 ~~~
 

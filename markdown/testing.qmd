@@ -80,7 +80,7 @@ def test_fahrenheit_to_celsius():
 <details>
   <summary markdown="span">Show answer</summary>
 
-Due to the inherent limitations to computational accuracy, we should not test for the exact equality between two floats. Instead we check that they are the same to within a numerical tolerance (in this case 1.0e-6). For more details please see the lesson [Evaluating numerical errors and accuracy](https://nu-cem.github.io/CompPhys/2021/08/02/Evaluating-Accuracy).
+Due to the inherent limitations to computational accuracy, we should not test for the exact equality between two floats. Instead we check that they are the same to within a numerical tolerance (in this case 1.0e-6). For more details please see the lesson [Evaluating numerical errors and accuracy](https://johncoxon.github.io/KD5081/2021/08/02/Evaluating-Accuracy).
     
 </details>
    
@@ -214,5 +214,5 @@ This is OK but the 1.0e-7 can be a bit arbitrary.
 
 ### EXTENSION TASKS: Automate everything! 
   
-2.  Automated testing using Continuous Integration allows us to automatically run tests when there is a commit to a Github repository. Following the tutorial from [The Code Refinery](https://coderefinery.github.io/testing/continuous-integration/), implement continuous integration for a Github repository holding `Lorenz.py` (this could be the Github repository you created in the [previous lesson](https://nu-cem.github.io/CompPhys/2021/08/02/Version_control.html)). Note that you will have to adapt the workflow file so that pip installs the python packages imported in your script (for Lorenz.py the packages are numpy and matplotlib).
+2.  Automated testing using Continuous Integration allows us to automatically run tests when there is a commit to a Github repository. Following the tutorial from [The Code Refinery](https://coderefinery.github.io/testing/continuous-integration/), implement continuous integration for a Github repository holding `Lorenz.py` (this could be the Github repository you created in the [previous lesson](https://johncoxon.github.io/KD5081/2021/08/02/Version_control.html)). Note that you will have to adapt the workflow file so that pip installs the python packages imported in your script (for Lorenz.py the packages are numpy and matplotlib).
 

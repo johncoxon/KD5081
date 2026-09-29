@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-This website contains resources for the second year course "Theory, computation and experiment" (KD5081) at Northumbria University, UK. The resources have been developed by [Dr Lucy Whalley](https://lucydot.github.io). 
+This website contains resources for the second year course "Theory, computation and experiment" (KD5081) at Northumbria University, UK. The resources are maintained by [Dr John Coxon](https://www.johncoxon.co.uk) and were originally developed by [Dr Lucy Whalley](https://lucydot.github.io).
 
-The website is powered by a [Github repository](https://github.com/NU-CEM/Computational_Physics/), [Quarto](https://quarto.org/) and [Jupyter Notebook](https://jupyter.org). Text is formatted with Markdown and equations are formatted with LaTeX. 
+The website is powered by a [Github repository](https://github.com/johncoxon/KD5081), [Quarto](https://quarto.org/) and [Jupyter Notebook](https://jupyter.org). Text is formatted with Markdown and equations are formatted with LaTeX.
 
 Students taking this class at Northumbria have been encouraged to raise a Github Issue or Pull Request when they spot a mistake or to suggest an improvement. These students are: @CharlieKellam, @TSGardner, @connorwatson128, @PyLief, @wheelchairscienceguy, @Jlcode7. Ross Pallistar has supported delivery as a TA, and made improvements to the website. 
 

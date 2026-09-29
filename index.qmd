@@ -34,9 +34,9 @@ Why yes!
 
 There are two ways you can suggest improvements to the website or highlight/fix mistakes in the text:
 
-1) If you cannot fix it yourself, visit the [Github repository for this course](https://github.com/NU-CEM/Computational_Physics/) and [raise an issue](https://github.com/NU-CEM/Computational_Physics/issues).  
+1) If you cannot fix it yourself, visit the [Github repository for this course](https://github.com/johncoxon/KD5081) and [raise an issue](https://github.com/johncoxon/KD5081/issues).
 
-2) If you can fit it yourself, you can visit the [Github repository for this course](https://github.com/NU-CEM/Computational_Physics/) and issue a pull request. This is a little bit more involved but has one significant advantage: once your pull request is merged into the website, you will be an official contributor to an open source project 🎈. There is a short video below outlining the steps required to fix a typo on one of the website pages and raise a pull request.
+2) If you can fit it yourself, you can visit the [Github repository for this course](https://github.com/johncoxon/KD5081) and issue a pull request. This is a little bit more involved but has one significant advantage: once your pull request is merged into the website, you will be an official contributor to an open source project 🎈. There is a short video below outlining the steps required to fix a typo on one of the website pages and raise a pull request.
 
 {{< video https://vimeo.com/875942688  width="700" height="450" >}}
 
