@@ -5,4 +5,4 @@ title: "Python recap"
 A pre-requisite for this course is a basic understanding of Python. 
 If you need to recap on the basics, you can use the [KD4014 website](https://johncoxon.github.io/KD4014/) - this covers all of the pre-requisite knowledge needed.
 
-To self-assess your level of understanding, we recommend using [ChooChoo the Checklist tool](https://johncoxon.github.io/python-recap/).
+To self-assess your level of understanding, we recommend using [ChooChoo the Checklist tool](https://www.github.com/johncoxon/python-recap/).
